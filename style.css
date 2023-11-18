@@ -78,7 +78,9 @@ header .navegation li a{
 .content .text h2 span{
     font-size: 3.5em;
     color: #e51e2a;
+    font-size: rem;
 }
+
 .content .text p{
     color: #fff;
 }
