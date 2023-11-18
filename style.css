@@ -55,7 +55,20 @@ header .navegation li a{
     text-decoration: none;
     font-size: 19px;
     margin-left: 100px;
+    transition: .2s ease-in-out;
 }
+.navegation li a:hover{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
 .content{
     position: relative;
     width: 100%;
